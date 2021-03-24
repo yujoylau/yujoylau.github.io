@@ -1,0 +1,74 @@
+.picture {
+    text-align: right;
+}
+    
+.grid-item {
+    padding-top: 100px;
+    word-wrap: normal;
+}
+
+.navbar-brand{
+    padding-left: 20px;
+
+}
+
+.row{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.button{
+    background-color: blue; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.body {
+    background-color: #ffe6ea;
+}
+
+.button1 {
+    background-color:#0072b1; 
+  border: none;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2 {
+    background-color: grey; 
+  border: none;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button3 {
+    background-color: #BB001B; 
+  border: none;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
